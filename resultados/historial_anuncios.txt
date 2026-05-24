@@ -1,0 +1,16 @@
+ID: 1
+Ruta de imagen: 1
+Descripcion: gana dinero r pido desde casa solo por hoy deposita por whatsapp para iniciar
+Categoria: Oferta o pago sospechoso
+Intencion: Urgente / persuasiva
+Riesgo: Alto
+Recomendacion: No realizar pagos ni ingresar enlaces sin verificar la fuente.
+----------------------------------------
+ID: 1
+Ruta de imagen: no
+Descripcion: gana dinero r pido desde casa solo por hoy deposita por whatsapp para iniciar
+Categoria: Oferta o pago sospechoso
+Intencion: Urgente / persuasiva
+Riesgo: Alto
+Recomendacion: No realizar pagos ni ingresar enlaces sin verificar la fuente.
+----------------------------------------
